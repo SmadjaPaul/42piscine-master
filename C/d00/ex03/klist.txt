@@ -1,5 +1,5 @@
-Credentials cache: API:97260322-63FD-4688-BCDE-0C291A436510
-        Principal: alucas-@42.FR
+Credentials cache: API:42146
+        Principal: pasmadja@42.US.ORG
 
-  Issued                Expires             Flags    Principal
-Jul  3 11:32:43 2017  Jul 10 11:32:35 2017  FPIA   krbtgt/42.FR@42.FR
+  Issued                Expires               Principal
+Nov 11 13:34:15 2018  Nov 11 23:34:15 2018  krbtgt/42.US.ORG@42.US.ORG

@@ -3,12 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   compress.h                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: dde-jesu <dde-jesu@student.42.fr>          +#+  +:+       +#+        */
+/*   By: pasmadja <pasmadja@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2017/07/26 12:15:18 by dde-jesu          #+#    #+#             */
-/*   Updated: 2017/07/26 22:13:25 by dde-jesu         ###   ########.fr       */
+/*   Created: 2018/11/11 13:51:26 by pasmadja          #+#    #+#             */
+/*   Updated: 2018/11/11 13:52:54 by pasmadja         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 
 #ifndef BSQ_COMPRESS_H
 # define BSQ_COMPRESS_H

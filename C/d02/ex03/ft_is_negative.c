@@ -3,12 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_is_negative.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: alucas- <alucas-@student.42.fr>            +#+  +:+       +#+        */
+/*   By: pasmadja <pasmadja@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2017/07/04 11:53:56 by alucas-           #+#    #+#             */
-/*   Updated: 2017/07/04 11:54:00 by alucas-          ###   ########.fr       */
+/*   Created: 2018/11/11 13:49:55 by pasmadja          #+#    #+#             */
+/*   Updated: 2018/11/11 13:50:56 by pasmadja         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 
 void	ft_putchar(char c);
 
